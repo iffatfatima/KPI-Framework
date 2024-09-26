@@ -26,7 +26,7 @@ Key Performance Indicators (KPIs) are essential for measuring performance and en
 
 ### Using the KPI Framework
 
-- We provide a KPI template with a checklist [here](docs/KPI Template + Checklist.docx) 
+- We provide a KPI template with a checklist [here](docs/KPITemplate+Checklist.docx)
 - We provide examples of the KPI created using this template [here](docs/Examples.pdf)
 
 ### Publications
