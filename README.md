@@ -21,9 +21,8 @@ Key Performance Indicators (KPIs) are essential for measuring performance and en
 ### Key-Concepts
 
 ![alt text](https://github.com/iffatfatima/KPI-Framework/blob/main/buildingblocks.png)
-  - What is a KPI?
-   - KPI Building Blocks
-   - KPI Checklist
+
+
 ### Using the KPI Framework
 
 - We provide a KPI template with a checklist [here](docs/KPITemplate+Checklist.docx)
