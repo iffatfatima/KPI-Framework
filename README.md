@@ -12,8 +12,6 @@ Welcome to the **KPI Framework** repository! This project provides comprehensive
    - KPI Building Blocks
    - KPI Checklist
 3. [Using the KPI Framework](#using-the-kpi-framework)
-   - Step-by-Step Guide
-   - Examples
 4. [Publications](#publications)
 5. [License](LICENSE.md)
 
@@ -28,6 +26,8 @@ Key Performance Indicators (KPIs) are essential for measuring performance and en
 
 ### Using the KPI Framework
 
+- We provide a KPI template with a checklist [here](docs/KPI Template + Checklist.docx) 
+- We provide examples of the KPI created using this template [here](docs/Examples.pdf)
 
 ### Publications
 
