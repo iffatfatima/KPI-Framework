@@ -33,6 +33,7 @@ Key Performance Indicators (KPIs) are essential for measuring performance and en
 
 ### References
 
-[1] I. Fatima, M. Funke, and P. Lago, "Providing Guidance to Software Practitioners: A Framework for Creating KPIs," 2024. *IEEE Software*, doi: 10.1109/MS.2024.3456446.
+[1] I. Fatima, M. Funke, and P. Lago, "Providing Guidance to Software Practitioners: A Framework for Creating KPIs," 2024. *IEEE Software*, (doi: 10.1109/MS.2024.3456446)[https://doi.org/10.1109/MS.2024.3456446].
 
-[2] P. Banijamali, I. Fatima, P. Lago, and I. Heitlager, "Unveiling Key Performance Indicators for the Energy Efficiency of Cloud Data Storage," 2024.
+[2] P. Banijamali, I. Fatima, P. Lago, and I. Heitlager, "Unveiling Key Performance Indicators for the Energy Efficiency of Cloud Data Storage," in 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C), Hyderabad, India, 2024 pp. 222-229.
+doi: (10.1109/ICSA-C63560.2024.00047)[https://doi.org/10.1109/ICSA-C63560.2024.00047].
